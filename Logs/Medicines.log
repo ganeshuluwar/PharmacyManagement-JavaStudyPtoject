@@ -1,0 +1,133 @@
+06-Apr-2022 21:56:35 INFO  - Inside display menu()
+06-Apr-2022 21:56:58 DEBUG - getting user input -  slected option 1
+06-Apr-2022 21:56:58 INFO  - inside DB operation-listMed()
+06-Apr-2022 21:56:58 ERROR - java.sql.SQLException: No suitable driver found for jdbc:sqlserver://LAPTOP-N0BE3ENR;databaseName=Pharmacy;SQL error
+06-Apr-2022 22:01:51 INFO  - Inside display menu()
+06-Apr-2022 22:01:59 DEBUG - getting user input -  slected option 1
+06-Apr-2022 22:01:59 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:28:57 INFO  - Inside display menu()
+09-Apr-2022 11:29:06 DEBUG - getting user input -  slected option 1
+09-Apr-2022 11:29:06 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:37:02 INFO  - Inside display menu()
+09-Apr-2022 11:37:07 DEBUG - getting user input -  slected option 1
+09-Apr-2022 11:37:07 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:38:37 INFO  - Inside display menu()
+09-Apr-2022 11:38:41 DEBUG - getting user input -  slected option 1
+09-Apr-2022 11:38:41 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:40:22 INFO  - Inside display menu()
+09-Apr-2022 11:40:25 DEBUG - getting user input -  slected option 1
+09-Apr-2022 11:40:25 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:41:01 INFO  - Inside display menu()
+09-Apr-2022 11:41:05 DEBUG - getting user input -  slected option 1
+09-Apr-2022 11:41:05 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:42:01 INFO  - Inside display menu()
+09-Apr-2022 11:42:04 DEBUG - getting user input -  slected option 1
+09-Apr-2022 11:42:04 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:43:51 INFO  - Inside display menu()
+09-Apr-2022 11:43:55 DEBUG - getting user input -  slected option 1
+09-Apr-2022 11:43:55 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:46:48 INFO  - Inside display menu()
+09-Apr-2022 11:46:51 DEBUG - getting user input -  slected option 1
+09-Apr-2022 11:46:51 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:55:33 INFO  - Inside display menu()
+09-Apr-2022 11:55:37 DEBUG - getting user input -  slected option 1
+09-Apr-2022 11:55:37 INFO  - inside DB operation-listMed()
+09-Apr-2022 11:55:58 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:00:36 INFO  - Inside display menu()
+09-Apr-2022 12:00:41 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:01:22 INFO  - Inside display menu()
+09-Apr-2022 12:01:25 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:01:30 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:04:25 INFO  - Inside display menu()
+09-Apr-2022 12:04:30 DEBUG - getting user input -  slected option 1
+09-Apr-2022 12:04:30 INFO  - inside DB operation-listMed()
+09-Apr-2022 12:05:11 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:21:10 INFO  - Inside display menu()
+09-Apr-2022 12:21:14 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:21:30 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:28:50 INFO  - Inside display menu()
+09-Apr-2022 12:28:56 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:29:02 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:29:32 INFO  - Inside display menu()
+09-Apr-2022 12:29:37 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:29:43 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:30:41 INFO  - Inside display menu()
+09-Apr-2022 12:30:46 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:30:56 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:31:02 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:31:04 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:31:11 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:31:13 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:33:05 INFO  - Inside display menu()
+09-Apr-2022 12:33:13 DEBUG - getting user input -  slected option 1
+09-Apr-2022 12:33:13 INFO  - inside DB operation-listMed()
+09-Apr-2022 12:33:49 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:33:57 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:34:17 DEBUG - getting user input -  slected option 2
+09-Apr-2022 12:34:23 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:34:35 DEBUG - getting user input -  slected option 3
+09-Apr-2022 12:34:40 INFO  - inside DB operation-searchMed()
+09-Apr-2022 12:34:45 DEBUG - getting user input -  slected option 4
+09-Apr-2022 12:34:45 INFO  - exit success - 
+09-Apr-2022 12:43:23 INFO  - Inside display menu()
+09-Apr-2022 12:44:11 INFO  - Inside display menu()
+09-Apr-2022 12:44:14 DEBUG - getting user input -  slected option 1
+09-Apr-2022 12:44:14 INFO  - inside DB operation-listMed()
+09-Apr-2022 12:44:39 INFO  - Inside display menu()
+09-Apr-2022 12:44:41 DEBUG - getting user input -  slected option 1
+09-Apr-2022 12:44:41 INFO  - inside DB operation-listMed()
+09-Apr-2022 12:49:22 INFO  - Inside display menu()
+09-Apr-2022 12:49:25 DEBUG - getting user input -  slected option 1
+09-Apr-2022 12:49:25 INFO  - inside DB operation-listMed()
+09-Apr-2022 12:49:37 DEBUG - getting user input -  slected option 3
+09-Apr-2022 12:49:43 INFO  - inside DB operation-searchMed()
+09-Apr-2022 13:57:38 INFO  - Inside display menu()
+09-Apr-2022 13:57:41 DEBUG - getting user input -  slected option 1
+09-Apr-2022 13:57:41 INFO  - inside DB operation-listMed()
+09-Apr-2022 14:04:34 INFO  - Inside display menu()
+09-Apr-2022 14:04:37 DEBUG - getting user input -  slected option 1
+09-Apr-2022 14:04:37 INFO  - inside DB operation-listMed()
+09-Apr-2022 14:04:41 DEBUG - getting user input -  slected option 2
+09-Apr-2022 14:04:46 INFO  - inside DB operation-searchMed()
+09-Apr-2022 14:06:02 INFO  - Inside display menu()
+09-Apr-2022 14:06:07 DEBUG - getting user input -  slected option 2
+09-Apr-2022 14:06:12 INFO  - inside DB operation-searchMed()
+09-Apr-2022 14:42:41 INFO  - Inside display menu()
+09-Apr-2022 14:42:45 DEBUG - getting user input -  slected option 2
+09-Apr-2022 14:42:50 INFO  - inside DB operation-searchMed()
+09-Apr-2022 14:43:17 ERROR - com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ', '.SQL error
+09-Apr-2022 14:44:54 INFO  - Inside display menu()
+09-Apr-2022 14:45:02 DEBUG - getting user input -  slected option 1
+09-Apr-2022 14:45:02 INFO  - inside DB operation-listMed()
+09-Apr-2022 14:45:07 DEBUG - getting user input -  slected option 2
+09-Apr-2022 14:45:13 INFO  - inside DB operation-searchMed()
+09-Apr-2022 14:45:24 ERROR - com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near ', '.SQL error
+09-Apr-2022 14:52:32 INFO  - Inside display menu()
+09-Apr-2022 14:52:46 DEBUG - getting user input -  slected option 2
+09-Apr-2022 14:52:51 INFO  - inside DB operation-searchMed()
+09-Apr-2022 15:07:30 INFO  - Inside display menu()
+09-Apr-2022 15:07:34 DEBUG - getting user input -  slected option 2
+09-Apr-2022 15:07:41 INFO  - inside DB operation-searchMed()
+09-Apr-2022 15:18:53 INFO  - Inside display menu()
+09-Apr-2022 15:18:56 DEBUG - getting user input -  slected option 1
+09-Apr-2022 15:18:56 INFO  - inside DB operation-listMed()
+09-Apr-2022 15:19:00 DEBUG - getting user input -  slected option 2
+09-Apr-2022 15:19:05 INFO  - inside DB operation-searchMed()
+09-Apr-2022 15:19:26 ERROR - com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK_Orders'. Cannot insert duplicate key in object 'dbo.Orders'. The duplicate key value is (O89M1001).SQL error
+09-Apr-2022 15:21:47 INFO  - Inside display menu()
+09-Apr-2022 15:21:51 DEBUG - getting user input -  slected option 2
+09-Apr-2022 15:21:55 INFO  - inside DB operation-searchMed()
+09-Apr-2022 15:26:09 INFO  - Inside display menu()
+09-Apr-2022 15:26:12 DEBUG - getting user input -  slected option 2
+09-Apr-2022 15:26:19 INFO  - inside DB operation-searchMed()
+09-Apr-2022 15:26:47 INFO  - Inside display menu()
+09-Apr-2022 15:27:08 DEBUG - getting user input -  slected option 2
+09-Apr-2022 15:27:14 INFO  - inside DB operation-searchMed()
+09-Apr-2022 15:27:30 INFO  - Inside display menu()
+09-Apr-2022 15:27:32 DEBUG - getting user input -  slected option 2
+09-Apr-2022 15:27:38 INFO  - inside DB operation-searchMed()
+09-Apr-2022 15:50:15 INFO  - Inside display menu()
+09-Apr-2022 15:50:19 DEBUG - getting user input -  slected option 2
+09-Apr-2022 15:50:19 INFO  - inside Dbfunctions-buyMed()
+09-Apr-2022 15:50:28 INFO  - inside DB operation-searchMed()
+09-Apr-2022 15:50:32 INFO  - inside Dbfunctions-addCustomers()
